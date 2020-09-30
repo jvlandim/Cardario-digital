@@ -1,0 +1,184 @@
+
+body{ 
+    background-color: black;
+    font-family: "Roboto";
+  
+ }
+
+header { 
+    background-color: rgb(212, 212, 22);
+    height: 40px;
+   
+    clear: both;
+    }
+footer{
+        background-color:rgb(212, 212, 22);
+        height: 40px;
+        clear: both;
+        
+    }
+*{
+        margin: 0px;
+        padding: 0;
+
+}
+.contato{
+
+    margin: 5%;
+    
+}
+.fone{
+    color: #DEB935;
+    
+    
+}
+.numero{
+    color: white;
+}
+.hesquerda{
+    margin:0px;
+    width: 50%;
+    float: left;
+    height: 350px;
+    
+
+}
+
+.hdireita{
+    margin:0%;
+    width: 50%;
+    float: right;
+    height: 350px;
+}
+
+.h1-cardapio{
+   
+    text-align: center;
+    color:white;
+    margin: 5%;
+
+}
+
+.img{
+    margin:0px;
+    width: 50%;
+    float: left;
+    height: 350px;
+    text-align: center;
+   
+    
+}
+
+.text{
+    margin:0px;
+    width: 50%;
+    float: right;
+    height: 350px;
+    color:  #DEB935;
+   
+    
+}
+
+.imagem{
+    width: 50%;
+    margin: 0%;
+   text-align: center;
+
+}
+
+
+
+.descriçao{
+    padding: 0%;
+    color: white;
+    margin: 0%;
+    width: 90%; 
+
+}
+
+
+}
+.h2-titulo{
+
+   
+    color:#475D16
+    margin: 0%;
+
+
+}
+.whatsapp-link{
+    
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    right: 20px;
+    background-color:#25d366;
+    color: #fff;
+    border-radius: 40px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 1px 1px 2px #888;
+    z-index: 1000;
+}
+.fa-whatsapp {
+    margin-top: 16px;
+}   
+
+
+
+}
+
+.menu ul li:hover{
+    background-color:white;
+    color: black;
+}
+
+.menu ul li{
+    float: left;
+    width: 200px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    -webkit-transition:background 0.5s ease-out;
+    -moz-transition:background 0.5s ease-out;
+    -o-transition:background 0.5s ease-out;
+    -ms-transition:background 0.5s ease-out;
+   
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.div-margin{
+    margin: 5%;
+
+
+}
+.link{
+    font:Arial, Sans-serif;
+
+    text-align: center;
+
+    color: #DEB935;
+
+   
+}
+
+.preço{
+    text-align: right;
+    color: black;
+    font:30px Arial, Sans-serif;
+    
+    background-color:white;
+    border-radius: 4px;
+    height: 30px;
+    font-size: 30px;
+    padding: 5px;
+    width: 10%; 
+}
+  
